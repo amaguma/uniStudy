@@ -1,0 +1,1 @@
+animation_shase = (0) animation_sign = (1) animation_mode = (0) poligon_mode = (1) textur_mode = (0) rotation = (1.0672) nodes = (11 7)
